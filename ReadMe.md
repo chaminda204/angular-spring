@@ -20,7 +20,7 @@ Building the application
 	3	To deploy the application into jetty
 		$ mvn jetty:run
 	
-To Access the application web
+To Access the application
 ==========================
 
-go to the browser and type http://localhost:8080/StudentService/
+go to the web browser and type http://localhost:8080/StudentService/
